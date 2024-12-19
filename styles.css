@@ -265,9 +265,4 @@ footer p {
     transform: scale(1.1);
 }
 
-/* Ajusta os vídeos para evitar sobreposição */
-.projeto-card video {
-    margin-bottom: 3rem;
-    width: 100%;
-    border-radius: 10px;
-}
+
